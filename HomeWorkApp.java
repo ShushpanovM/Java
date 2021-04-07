@@ -1,5 +1,5 @@
-package ru.geekbrains.lesson1;
-
+package ru.geekbrains.lesson1.Java;
+// Я заколебался делать PullRequest
 public class HomeWorkApp {
     public static void main(String[] args) {
         printThreeWords();
